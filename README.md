@@ -5,6 +5,7 @@ Get detail of Phone Number like Timezone , Carrier, Register.
 
     <!DOCTYPE html>
     <html>
+    
     <head>
     	<meta charset="utf-8">
     	<title>Number Guessing Game</title>
